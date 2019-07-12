@@ -17,9 +17,7 @@
 }
 
 #wall .parent #tag-5.slick {
-  background: url(../images/tag-5.png) no-repeat;
-  z-index: 3;
-  display: block;
+  background: url(../images/tag-5.png) repeat;
 }
 
 #tag-6 {
