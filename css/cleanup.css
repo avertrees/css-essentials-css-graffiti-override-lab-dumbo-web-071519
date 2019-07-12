@@ -5,20 +5,15 @@
 
 #wall #tag-2 {
   background: url(../images/tag-2.png) repeat;
-#  z-index: 6;
-#  display: block;
 }
 
 #wall #tag-3.slick {
   background: url(../images/tag-3.png) repeat;
-z-index: 5;  
   display: inline-block;
 }
 
 #wall #tag-4 {
-  background: url(../images/tag-4.png) no-repeat;
-  z-index: 4;
-  display: block;
+  display: inline-block;
 }
 
 #wall .parent #tag-5.slick {
